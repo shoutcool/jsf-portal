@@ -3,6 +3,8 @@ jsf-portal
 
 Lightweight JSF 2 portal-like implementation with test web apps (POC)
 
+Original Blogpost: [http://ovaraksin.blogspot.ch/2013/12/modular-jsf-applications.html](http://ovaraksin.blogspot.ch/2013/12/modular-jsf-applications.html)
+
 > **Adopted to run on Tomcat 8.5:**
 
 > - Added JBoss Weld
